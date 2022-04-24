@@ -1,0 +1,3602 @@
+[
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.38,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.04,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.58,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.75,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.58,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.42,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.33,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.48,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "A&N Islands",
+    "points": 4.12,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-AN",
+    "map_state_names": "Andaman and Nicobar Islands",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.48,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.94,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.58,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.63,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.66,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.55,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.57,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.3,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 0.4,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Andhra Pradesh",
+    "points": 5.05,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-AP",
+    "map_state_names": "Andhra Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.3,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.05,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.3,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.28,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.38,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.39,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.43,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.32,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 0.58,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Arunachal Pradesh",
+    "points": 3.03,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-AR",
+    "map_state_names": "Arunachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.41,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.83,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.46,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.28,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.49,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.55,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.34,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.2,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 0.51,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Assam",
+    "points": 4.07,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-AS",
+    "map_state_names": "Assam",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.5,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.82,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.58,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.36,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.57,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.52,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.32,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.19,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 0.56,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Bihar",
+    "points": 4.4,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-BR",
+    "map_state_names": "Bihar",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.32,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.12,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.73,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.75,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.84,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.38,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.29,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.63,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 0.62,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Chandigarh",
+    "points": 4.68,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-CH",
+    "map_state_names": "Chandigarh",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.58,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.93,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.51,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.32,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.51,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.55,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.65,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.5,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Chhattisgarh",
+    "points": 5.05,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-CT",
+    "map_state_names": "Chhattisgarh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.23,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.22,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.52,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.52,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.56,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.49,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.38,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 0.14,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "D&N Haveli",
+    "points": 3.12,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-DN",
+    "map_state_names": "Dadra and Nagar Haveli",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.51,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.3,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.74,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.61,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.67,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.55,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.27,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 0.6,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Daman & Diu",
+    "points": 4.33,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-DD",
+    "map_state_names": "Daman and Diu",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.17,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.33,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.78,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.68,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.72,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.83,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.23,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.47,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 0.17,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Delhi",
+    "points": 4.39,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-DL",
+    "map_state_names": "Delhi",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.29,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.54,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.81,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.77,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.68,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.47,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.28,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.34,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 0.14,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Goa",
+    "points": 4.29,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-GA",
+    "map_state_names": "Goa",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.44,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.92,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.61,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.53,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.73,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.62,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.41,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.3,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Gujarat",
+    "points": 5.04,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-GJ",
+    "map_state_names": "Gujarat",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.48,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.92,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.78,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.56,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.71,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.54,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.28,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.26,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Haryana",
+    "points": 5,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-HR",
+    "map_state_names": "Haryana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.47,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.83,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.74,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.58,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.64,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.45,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.48,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.54,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 0.49,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Himachal Pradesh",
+    "points": 5.22,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-HP",
+    "map_state_names": "Himachal Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.44,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.34,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.5,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.57,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.55,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.26,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.46,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.35,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 0.57,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "J & K",
+    "points": 4.04,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-JK",
+    "map_state_names": "Jammu and Kashmir",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.41,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.94,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.39,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.44,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.53,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.39,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.38,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.25,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Jharkhand",
+    "points": 4.23,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-JH",
+    "map_state_names": "Jharkhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.43,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.91,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.54,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.59,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.64,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.68,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.45,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.36,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Karnataka",
+    "points": 5.1,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-KA",
+    "map_state_names": "Karnataka",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.3,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.43,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.76,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.81,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.66,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.46,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.45,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.55,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 0.59,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Kerala",
+    "points": 4.98,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-KL",
+    "map_state_names": "Kerala",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.25,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.02,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.33,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.73,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.54,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.21,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.34,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Lakshadweep",
+    "points": 2.97,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-LD",
+    "map_state_names": "Lakshadweep",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.73,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.92,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.41,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.27,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.58,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.52,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.6,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.37,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Madhya Pradesh",
+    "points": 4.85,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-MP",
+    "map_state_names": "Madhya Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.42,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.9,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.62,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.74,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.73,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.66,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.42,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.4,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 0.54,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Maharashtra",
+    "points": 5.4,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-MH",
+    "map_state_names": "Maharashtra",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.29,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.04,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.54,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.8,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.53,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.42,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.27,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.46,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 0.58,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Manipur",
+    "points": 3.93,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-MN",
+    "map_state_names": "Manipur",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.43,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.04,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.4,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.4,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.53,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.29,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.74,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.4,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 0.58,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Meghalaya",
+    "points": 3.81,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-ML",
+    "map_state_names": "Meghalaya",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.66,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.06,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.42,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.67,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.56,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.39,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.59,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.5,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 0.56,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Mizoram",
+    "points": 4.41,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-MZ",
+    "map_state_names": "Mizoram",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.29,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.19,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.47,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.65,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.48,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.21,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.17,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.52,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 0.57,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Nagaland",
+    "points": 3.55,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-NL",
+    "map_state_names": "Nagaland",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.44,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.87,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.55,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.3,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.5,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.53,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.51,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.25,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 0.56,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Orissa",
+    "points": 4.44,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-OR",
+    "map_state_names": "Odisha",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.45,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.2,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.85,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.75,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.69,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.19,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.27,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.7,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 0.56,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "UTs",
+    "State": "Pondicherry",
+    "points": 4.69,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-PY",
+    "map_state_names": "Puducherry",
+    "State_UT": "union territory"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.35,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.51,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.8,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.63,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.73,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.37,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.36,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.3,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Punjab",
+    "points": 4.57,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-PB",
+    "map_state_names": "Punjab",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.6,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.9,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.48,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.32,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.57,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.44,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.51,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.49,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Rajasthan",
+    "points": 4.8,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-RJ",
+    "map_state_names": "Rajasthan",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.33,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.06,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.42,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.72,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.51,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.42,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.65,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.48,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 0.62,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Sikkim",
+    "points": 4.21,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-SK",
+    "map_state_names": "Sikkim",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.45,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.86,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.64,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.78,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.74,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.58,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.49,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.56,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 0.58,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Tamil Nadu",
+    "points": 5.62,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-TN",
+    "map_state_names": "Tamil Nadu",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.29,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.93,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.55,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.63,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.7,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.63,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.46,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.22,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 0.49,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Telangana",
+    "points": 4.83,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-TG",
+    "map_state_names": "Telangana",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.44,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.28,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.5,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.62,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.57,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.55,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.49,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.47,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 0.58,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Tripura",
+    "points": 4.5,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-TR",
+    "map_state_names": "Tripura",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.45,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.89,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.61,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.18,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.59,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.47,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.35,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.23,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 0.55,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "Uttar Pradesh",
+    "points": 4.25,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-UP",
+    "map_state_names": "Uttar Pradesh",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.38,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.91,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.62,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.38,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.64,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.6,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.38,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.47,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 0.49,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "NE & Hill",
+    "State": "Uttarakhand",
+    "points": 4.87,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-UT",
+    "map_state_names": "Uttarakhand",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.45,
+    "field_category": "Agriculture & Allied Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.92,
+    "field_category": "Commerce & Industries Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.46,
+    "field_category": "Human Resource Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.63,
+    "field_category": "Public Health Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.54,
+    "field_category": "Public Infrastructure Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.49,
+    "field_category": "Economic Governance Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.56,
+    "field_category": "Social Welfare & Development Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.21,
+    "field_category": "Judicial & Public Security Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 0.63,
+    "field_category": "Environment Ranking",
+    "overall_points": 1,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  },
+  {
+    "States_category": "Big States",
+    "State": "West Bengal",
+    "points": 4.84,
+    "field_category": "Composite Ranking",
+    "overall_points": 9,
+    "state_code": "IN-WB",
+    "map_state_names": "West Bengal",
+    "State_UT": "State"
+  }
+]

@@ -1,0 +1,66 @@
+code,Business Description,Category
+01,"Agriculture, Hunting and related Service activities",Agriculture and Allied Activities
+03,"Forestry, logging and related Service activities",Agriculture and Allied Activities
+05,"Fishing, Operation of fish hatcheries and fish farms; Service activities incidental to fishing",Agriculture and Allied Activities
+10,"Mining of coal and lignite, extraction of peat",Mining & Quarrying
+11,"Extraction of crude petroleum and natural gas, service activities incidental to oil and gas extraction excluding surveying",Mining & Quarrying
+12,Mining of uranium and thorium ores,Mining & Quarrying
+13,Mining of metal ores,Mining & Quarrying
+14,Other Mining and Quarrying,Mining & Quarrying
+15,Manufacture of food products and beverages,Manufacturing (Food stuffs)
+16,Manufacture of tobacco products,Manufacturing (Food stuffs)
+17,Manufacture of textiles,Manufacturing (Textiles)
+18,"Manufacture of wearing apparel, dressing and dyeing of fur",Manufacturing (Textiles)
+19,"Tanning and dressing of leather, manufacture of luggage handbags, saddlery & harness and footwear",Manufacturing (Leather & products thereof)
+20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plating materials",Manufacturing (Wood Products)
+Activity..Code.......,Business Description,Category
+21,Manufacture of paper and paper products,Manufacturing (Paper& Paper
+22,"Publishing, printing and reproduction of recorded media","products; Publishing, printing and reproduction of recorded media)"
+23,"Manufacture of coke, refined petroleum products and nuclear fuel","Manufacturing (Metals & Chemicals, and products thereof)"
+24,Manufacture of chemicals and chemical products,"Manufacturing (Metals & Chemicals, and products thereof)"
+25,Manufacture of rubber and plastic products,"Manufacturing (Metals & Chemicals, and products thereof)"
+26,Manufacture of other non-metallic mineral products,"Manufacturing (Metals & Chemicals, and products thereof)"
+27,Manufacture of basic metals,"Manufacturing (Metals & Chemicals, and products thereof)"
+28,"Manufacture of fabricated metal products, except machinery and equipments","Manufacturing (Metals & Chemicals, and products thereof)"
+29,Manufacture of machinery and equipment n.e.c,Manufacturing (Machinery & Equipments)
+30,"Manufacture of office, accounting and computing machinery",Manufacturing (Machinery & Equipments)
+31,Manufacture of electrical machinery and apparatus n.e.c,Manufacturing (Machinery & Equipments)
+32,"Manufacture of radio, television and communication equipment and apparatus",Manufacturing (Machinery & Equipments)
+33,"Manufacture of medical, precision and optical instruments, watches and clocks",Manufacturing (Machinery & Equipments)
+34,"Manufacture of motor vehicles, trailers and semi-trailers",Manufacturing (Machinery & Equipments)
+35,Manufacture of other transport equipment,Manufacturing (Machinery & Equipments)
+36,Manufacture of furniture; manufacturing n.e.c,Manufacturing (Others)
+37,Recycling,Manufacturing (Others)
+Activity..Code.......,Business Description,Categories
+40,"Electricity, gas, steam and hot water supply","Electricity, Gas & Water companies"
+41,"Collection, purification and distribution of water","Electricity, Gas & Water companies"
+45,Construction,Construction
+50,"Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel",Trading
+51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",Trading
+52,"Retail trade, except of motor vehicles and motorcycles, repair of personal and household goods",Trading
+55,Hotels and Restaurants,Trading
+60,Land transport; transport via pipelines,"Transport, storage and Communications"
+61,Water Transport,"Transport, storage and Communications"
+62,Air Transpor,"Transport, storage and Communications"
+63,"Supporting and auxiliary transport activities, activities of travel agencies","Transport, storage and Communications"
+64,Post and telecommunications,"Transport, storage and Communications"
+65,"Financial intermediation, except insurance and pension funding","Finance, Insurance"
+66,"Insurance and pension funding, except compulsory social security","Finance, Insurance"
+67,Activities auxiliary to financial intermediation,"Finance, Insurance"
+Activity..Code.....,Business Description,Categories
+70,Real estate activities,Real Estate and Renting
+71,Renting of machinery and equipment without operator and of personal and household goods,Real Estate and Renting
+72,Computer and related activities,Business Services
+73,Research and Development,Research and Development
+74,Other Business Activities,Other Business Activities
+75,"Public Administration and Defence, compulsory social security","Community, personal & Social Services"
+80,Education,"Community, personal & Social Services"
+85,Health and Social Work,"Community, personal & Social Services"
+90,"Sewage and refuse disposal, sanitation and similar activities","Community, personal & Social Services"
+91,Activities of membership organizations n.e.c.,"Community, personal & Social Services"
+92,"Recreational, cultural and sporting activities","Community, personal & Social Services"
+93,Other Service activities,"Community, personal & Social Services"
+95,Activities of private households as employers of domestic staff,"Community, personal & Social Services"
+96,Undifferentiated goods-producing activities of private households for own use,"Community, personal & Social Services"
+97,Undifferentiated service-producing activities of private households for own use,"Community, personal & Social Services"
+99,Extra territorial organizations and bodies,"Community, personal & Social Services"
